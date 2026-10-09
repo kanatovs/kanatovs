@@ -6,6 +6,17 @@ Most of the projects here started as university assignments. I use them to pract
 
 I'm interested in **software development internships**. I'd like to work on real tasks, learn from more experienced developers and get better at debugging, testing and writing readable code.
 
+## 🚀 HackAlem — Team QBERS
+
+**[Astana Budget Planner](https://github.com/BAITC-Hacks/hack-b53220ee-qbers)** is a team hackathon prototype for exploring budget allocation across five urban-service areas in Astana. It combines map-based scenarios, currency conversion, saved budget plans and before-and-after indicator comparisons.
+
+**Team stack:** React · Vite · Django · PostgreSQL · Docker · 2GIS MapGL.
+
+**My contribution focused on the React frontend:**
+
+- Built and integrated a currency picker with search, flag icons and keyboard navigation. [Commit](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/798ee3a410c1f6ec9ed5183b4ea035a183a05cb5).
+- Added the QBERS logo and favicons to the app and adjusted the header styling. [Commit](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/9ae23ac2758fbb3d680b1cfe4112659eb7d0bc7a).
+
 ## 🛠 Projects
 
 | Project | What it does and what it explores |
