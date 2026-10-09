@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="238" viewBox="0 0 420 238" role="img" aria-labelledby="title desc">
+  <title id="title">Divide &amp; Conquer</title>
+  <desc id="desc">Алгоритмы, тесты и измерение производительности. Java 17 · Algorithms · Benchmarks. Открыть репозиторий.</desc>
+  <rect x="1" y="1" width="418" height="236" rx="17" fill="#0E192A" stroke="#293A50" stroke-width="1.5"/>
+  <rect x="22" y="25" width="46" height="46" rx="12" fill="#F5BE6C" fill-opacity="0.11"/>
+  <g transform="translate(30 33)" fill="none" stroke="#F5BE6C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="15" cy="4" r="3"/><circle cx="4" cy="24" r="3"/><circle cx="26" cy="24" r="3"/><path d="M15 8V13M4 20V13H26V20"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="82" y="53" fill="#F5BE6C" font-size="13" font-weight="600" letter-spacing="1.2">03 / ALGORITHMS</text>
+    <text x="23" y="107" fill="#F2F6FC" font-size="23" font-weight="700">Divide &amp; Conquer</text>
+    <text x="24" y="137" fill="#C4D1E4" font-size="16">Алгоритмы, тесты</text>
+    <text x="24" y="161" fill="#C4D1E4" font-size="16">и измерение производительности.</text>
+    <text x="24" y="191" fill="#F5BE6C" font-size="13">Java 17 · Algorithms · Benchmarks</text>
+    <text x="24" y="220" fill="#91A6C2" font-size="12">Открыть репозиторий</text>
+  </g>
+  <path d="M381 218L395 204M385 204H395V214" fill="none" stroke="#F5BE6C" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

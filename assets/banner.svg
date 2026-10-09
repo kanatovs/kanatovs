@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Kanatov Sabyrzhan — Java, Kotlin, Python and web projects</title>
+  <desc id="desc">Dark navy banner with cyan, violet and amber accents, the GitHub handle kanatovs and a geometric code illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101D34"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#66DBEF"/>
+      <stop offset="0.55" stop-color="#A99BFF"/>
+      <stop offset="1" stop-color="#F5BE6C"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="278" rx="22" fill="url(#bg)" stroke="#26374E" stroke-width="2"/>
+  <path d="M46 234H580" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <circle cx="54" cy="56" r="5" fill="#66DBEF"/>
+    <text x="72" y="62" fill="#A9BCD4" font-size="19" letter-spacing="2">KANATOVS / GITHUB</text>
+    <text x="46" y="123" fill="#F5F7FC" font-size="48" font-weight="700">Kanatov Sabyrzhan</text>
+    <text x="48" y="165" fill="#CCD8E9" font-size="23">Code. Learn. Refine.</text>
+    <text x="48" y="209" fill="#66DBEF" font-size="18" letter-spacing="1">JAVA</text>
+    <circle cx="119" cy="202" r="2.5" fill="#617793"/>
+    <text x="135" y="209" fill="#A99BFF" font-size="18" letter-spacing="1">KOTLIN</text>
+    <circle cx="226" cy="202" r="2.5" fill="#617793"/>
+    <text x="243" y="209" fill="#F5BE6C" font-size="18" letter-spacing="1">PYTHON</text>
+    <circle cx="341" cy="202" r="2.5" fill="#617793"/>
+    <text x="357" y="209" fill="#CCD8E9" font-size="18" letter-spacing="1">WEB</text>
+  </g>
+  <g fill="none" stroke-linejoin="round">
+    <path d="M685 76H865L920 132V219H740L685 164Z" stroke="#304661" stroke-width="1.5"/>
+    <path d="M752 35H918V185H752Z" stroke="#273950" stroke-width="1.5"/>
+    <rect x="706" y="59" width="201" height="166" rx="18" fill="#14243B" stroke="#66DBEF" stroke-opacity="0.55" stroke-width="1.5"/>
+    <path d="M732 83H881" stroke="#2A405B"/>
+    <circle cx="737" cy="74" r="3" fill="#66DBEF" stroke="none"/>
+    <circle cx="750" cy="74" r="3" fill="#A99BFF" stroke="none"/>
+    <circle cx="763" cy="74" r="3" fill="#F5BE6C" stroke="none"/>
+    <path d="M766 110L744 132L766 154M847 110L869 132L847 154" stroke="#66DBEF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M819 105L795 160" stroke="#A99BFF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M737 188H803M737 202H840" stroke="#42607E" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="916" cy="54" r="10" fill="#F5BE6C" stroke="none"/>
+    <circle cx="696" cy="231" r="5" fill="#A99BFF" stroke="none"/>
+    <path d="M941 185V203M932 194H950" stroke="#66DBEF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

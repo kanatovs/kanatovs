@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="238" viewBox="0 0 420 238" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Calculator</title>
+  <desc id="desc">История вычислений, статистика и экспорт JSON/CSV. Python · Tkinter · unittest. Открыть репозиторий.</desc>
+  <rect x="1" y="1" width="418" height="236" rx="17" fill="#0E192A" stroke="#293A50" stroke-width="1.5"/>
+  <rect x="22" y="25" width="46" height="46" rx="12" fill="#66DBEF" fill-opacity="0.11"/>
+  <g transform="translate(30 33)" fill="none" stroke="#66DBEF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="0" width="23" height="29" rx="4"/><path d="M8 6H21M8 13H10M17 13H19M8 19H10M17 19H19M8 25H10M17 25H19"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="82" y="53" fill="#66DBEF" font-size="13" font-weight="600" letter-spacing="1.2">04 / DESKTOP</text>
+    <text x="23" y="107" fill="#F2F6FC" font-size="23" font-weight="700">Smart Calculator</text>
+    <text x="24" y="137" fill="#C4D1E4" font-size="16">История вычислений,</text>
+    <text x="24" y="161" fill="#C4D1E4" font-size="16">статистика и экспорт JSON/CSV.</text>
+    <text x="24" y="191" fill="#66DBEF" font-size="13">Python · Tkinter · unittest</text>
+    <text x="24" y="220" fill="#91A6C2" font-size="12">Открыть репозиторий</text>
+  </g>
+  <path d="M381 218L395 204M385 204H395V214" fill="none" stroke="#66DBEF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
