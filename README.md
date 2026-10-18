@@ -1,40 +1,46 @@
-# Hi, I'm Sabyrzhan 👋
+# Hi, I'm Sabyrzhan
 
-I'm **Sabyrzhan Kanatov**, a **second-year Software Engineering student at Astana IT University**. 🎓
+I'm **Sabyrzhan Kanatov**, a second-year Software Engineering student at **Astana IT University**, focused on **Go backend development**. I build REST APIs and backend services and am open to backend internship opportunities.
 
-Most of the projects here started as university assignments. I use them to practise programming, try different technologies and understand how the parts of an application work together. So far, I've worked with **Java, Kotlin, Python and HTML/CSS/JavaScript**.
+My earlier coursework and team projects include Java, Kotlin, Python, frontend development and algorithms.
 
-I'm interested in **software development internships**. I'd like to work on real tasks, learn from more experienced developers and get better at debugging, testing and writing readable code.
+## Backend stack
 
-## 🚀 HackAlem — Team QBERS
+- **Core:** Go, SQL, HTTP, REST and JSON.
+- **Data:** PostgreSQL with pgx; Redis and cache-aside.
+- **Authentication and authorization:** JWT, bcrypt and role-based access control (RBAC).
+- **Tools:** Docker, Docker Compose, OpenAPI and Git.
+- **Verification:** unit, integration and smoke testing; GitHub Actions and CI.
 
-**[Astana Budget Planner](https://github.com/BAITC-Hacks/hack-b53220ee-qbers)** is a team hackathon prototype for exploring budget allocation across five urban-service areas in Astana. It combines map-based scenarios, currency conversion, saved budget plans and before-and-after indicator comparisons.
+## Featured project: TaskFlow API v1.0.0
 
-**Team stack:** React · Vite · Django · PostgreSQL · Docker · 2GIS MapGL.
+[![CI](https://github.com/kanatovs/taskflow-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kanatovs/taskflow-api/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/kanatovs/taskflow-api?label=release)](https://github.com/kanatovs/taskflow-api/releases/tag/v1.0.0)
 
-**My contribution focused on the React frontend:**
+A Go REST API for collaborative project and task management, released as **v1.0.0**.
 
-- Built and integrated a currency picker with search, flag icons and keyboard navigation. [Commit](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/798ee3a410c1f6ec9ed5183b4ea035a183a05cb5).
-- Added the QBERS logo and favicons to the app and adjusted the header styling. [Commit](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/9ae23ac2758fbb3d680b1cfe4112659eb7d0bc7a).
+- JWT authentication with bcrypt password hashing, project roles and authorization.
+- Projects, tasks and comments; filtering, search, sorting and pagination.
+- PostgreSQL migrations, parameterized SQL and transactions.
+- Redis read-through detail caching with TTL, invalidation and PostgreSQL fallback.
+- Docker Compose, OpenAPI documentation and GitHub Actions CI.
+- Unit, integration and smoke tests.
 
-## 🛠 Projects
+[Repository](https://github.com/kanatovs/taskflow-api) · [v1.0.0 release](https://github.com/kanatovs/taskflow-api/releases/tag/v1.0.0) · [OpenAPI](https://github.com/kanatovs/taskflow-api/blob/main/docs/openapi.yaml) · [Architecture](https://github.com/kanatovs/taskflow-api/blob/main/docs/architecture.md)
 
-| Project | What it does and what it explores |
+## Selected additional projects
+
+| Project | Focus |
 | --- | --- |
-| ✈️ [Airline API](https://github.com/kanatovs/airline-api) | **Java · Spring Boot · PostgreSQL**<br>A REST API for creating, finding, updating and deleting flights. It connects HTTP endpoints to a database using Spring Data JPA and separates controllers, services and repositories. |
-| 📱 [Aitunavi](https://github.com/kanatovs/Aitunavi) | **Kotlin · Jetpack Compose**<br>An Android app for students with group timetables, teacher search, a campus map and daily notes. It uses ViewModel, StateFlow and local storage to manage screens and data. |
-| 🧩 [Divide and Conquer](https://github.com/kanatovs/assignment1-divide-and-conquer) | **Java · Algorithms**<br>A collection of divide-and-conquer algorithms with correctness checks and timing measurements. The project explores recursion, sorting, selection and how performance changes with input size. |
-| 🐍 [Smart Calculator](https://github.com/kanatovs/smart-calculator) | **Python · Tkinter · JSON/CSV**<br>A desktop calculator with operation history, search, statistics and file export. Calculation logic and history storage are separate from the interface, with classes for the different operations. |
-| 🎵 [Cold Carti](https://github.com/kanatovs/music-bandv3) | **HTML · CSS · JavaScript · Bootstrap**<br>A responsive, five-page fan website with a cover gallery, carousel and a form with client-side validation. It combines Bootstrap with CSS Grid and Flexbox. [View the website](https://kanatovs.github.io/music-bandv3/). |
+| [Airline API](https://github.com/kanatovs/airline-api) | Java, Spring Boot and PostgreSQL flight CRUD API using Spring Data JPA. |
+| [Aitunavi](https://github.com/kanatovs/Aitunavi) | Kotlin and Jetpack Compose student app with local schedules, teacher search, notes and an embedded campus map. |
+| [Divide and Conquer](https://github.com/kanatovs/assignment1-divide-and-conquer) | Java sorting, selection and closest-pair algorithms with correctness checks, timing experiments and plots. |
+| [HackAlem / Astana Budget Planner](https://github.com/BAITC-Hacks/hack-b53220ee-qbers) | Team budget-planning prototype. My React contributions: a searchable [currency picker](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/798ee3a410c1f6ec9ed5183b4ea035a183a05cb5) with keyboard navigation, plus [logo and favicon integration](https://github.com/BAITC-Hacks/hack-b53220ee-qbers/commit/9ae23ac2758fbb3d680b1cfe4112659eb7d0bc7a). |
 
-**My part in the team projects:**
+## Current direction
 
-- **Cold Carti:** built with Zhaxylyk Alikhan. I worked on the homepage and contact page, including the gallery filter, carousel and form validation.
-- **Smart Calculator:** I worked on the calculation logic, operation classes, history, JSON/CSV handling and input validation. My teammate worked on the interface.
+I'm deepening my Go knowledge and studying backend systems, databases and concurrency. I'm interested in financial and blockchain-related backend services.
 
-## 🌱 What I want to improve
+## Contact and availability
 
-- Get more confident with **Java backend development, SQL and Android development**.
-- Write better tests and spend more time understanding edge cases.
-- Improve how I use **Git, pull requests and code reviews** when working with others.
-- Keep improving these projects and learn to explain my technical choices clearly.
+Open to backend internships. Find me on [GitHub](https://github.com/kanatovs).
